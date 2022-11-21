@@ -124,7 +124,7 @@ $suppressErrors
 name: "updatecredits",
 type: "awaited",
 code: `
-$addButton[2;Delete User;primary;DeleteUser_$authorID_$awaitData[ModifiedUser];no]
+$addButton[2;Delete User;danger;DeleteUser_$authorID_$awaitData[ModifiedUser];no]
 $addButton[1;Change Email;primary;ChangeEmail_$authorID_$awaitData[ModifiedUser];no]
 $addButton[1;Change Server Limit;primary;ChangeServerLimit_$authorID_$awaitData[ModifiedUser];no]
 $addButton[1;Change Credits;primary;ChangeCredits_$authorID_$awaitData[ModifiedUser];no]
