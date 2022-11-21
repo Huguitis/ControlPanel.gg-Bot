@@ -1,0 +1,17 @@
+{
+  "name": "ControlPanel.gg-Bot",
+  "version": "1.0.0",
+  "description": "An advanced discord bot for managing users, vouchers, etc for controlpanel.gg",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Huguitis",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^5.5.5"
+  }
+}
