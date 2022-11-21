@@ -12,6 +12,8 @@ $description[1;
 > \`$getVar[BotPrefix]createUser\` - Creates a new user on the panel.
 > \`$getVar[BotPrefix]createVoucher\` - Creates a new voucher code on the panel.
 > \`$getVar[BotPrefix]modifyUser\` - Modifies an existing user on the panel.
+> \`$getVar[BotPrefix]modifyServer\` - Modifies an existing server on the panel.
+> \`$getVar[BotPrefix]sendNotification\` - Sends a notification to all/selected users.
 > \`$getVar[BotPrefix]eval\` - Evaluates a code on discord.
 ]
 
