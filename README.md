@@ -2,6 +2,16 @@
 An advanced discord bot for managing users, vouchers, etc for controlpanel.gg
 You can use the bot but remember to follow the license.
 
+# Showcase
+**Create User Command:**
+https://media3.giphy.com/media/5Y88aub3BkyLl20x8a/giphy.gif?cid=790b7611fe9f3ef051c2b4ce14b70cd7b392b99f943cf45d&rid=giphy.gif
+
+**Modify User Command:**
+https://media0.giphy.com/media/KYtwAUTXH8aQUNZCJ2/giphy.gif?cid=790b7611e405b3049878f443d8c0dd1bbbf68365adc31279&rid=giphy.gif
+
+**Create Voucher Command:**
+https://media3.giphy.com/media/Y7kmLnU3tJAs503WL8/giphy.gif?cid=790b7611dc841325f9cdf8b306ce5c04f9f851ffa93327ed&rid=giphy.gif
+
 # Contributing:
 Make a pull request and we will check over it!
 
