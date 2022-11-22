@@ -2,6 +2,8 @@
 An advanced discord bot for managing users, vouchers, etc for controlpanel.gg
 You can use the bot but remember to follow the license.
 
+This is the beta version and doesn't have all the features. To get the final one, you can pay here [ControlPanel Market](https://market.controlpanel.gg/resources/resource/37--controlpanelgg-bot)
+
 # Showcase
 ## Create User Command:
 ![](https://media3.giphy.com/media/5Y88aub3BkyLl20x8a/giphy.gif?cid=790b7611fe9f3ef051c2b4ce14b70cd7b392b99f943cf45d&rid=giphy.gif)
